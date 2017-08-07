@@ -1,4 +1,4 @@
-package com.diglesia.hw2017mobiledev.lab7;
+package com.claytonl.hw2017mobiledev.lab7;
 
 import org.junit.Test;
 
